@@ -1,0 +1,14 @@
+
+> luxora-mvp-15@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.1.7
+   - Local:        http://localhost:3000
+   - Network:      http://10.0.0.193:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1024ms
+ ○ Compiling / ...
+ GET / 500 in 1306ms
+[?25h
